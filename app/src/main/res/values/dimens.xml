@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="fakeStatusBarSize">24dp</dimen>
+
+    <dimen name="spTitleTextSize">17sp</dimen>
+    <dimen name="spLargerTextSize">15sp</dimen>
+    <dimen name="spNormalTextSize">13sp</dimen>
+    <dimen name="spSmallerTextSize">10sp</dimen>
+
+    <dimen name="dpNormalMargin">14dp</dimen>
+    <dimen name="cardViewRadius">6dp</dimen>
+    <dimen name="cardViewMargin">10dp</dimen>
+    <dimen name="chipRadius">5dp</dimen>
+    <dimen name="toolBarElevation">3dp</dimen>
+
+</resources>

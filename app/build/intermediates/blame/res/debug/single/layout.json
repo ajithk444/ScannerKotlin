@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_base_info.xml",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\layout\\item_base_info.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_all_name_card.xml",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\layout\\fragment_all_name_card.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_name_card.xml",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\layout\\item_name_card.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_camera.xml",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_choose_group.xml",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\layout\\fragment_choose_group.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_name_card_holder.xml",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\layout\\fragment_name_card_holder.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_personal_center.xml",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\layout\\fragment_personal_center.xml"
+    }
+]

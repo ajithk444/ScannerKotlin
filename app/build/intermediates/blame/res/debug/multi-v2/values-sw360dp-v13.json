@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,109",
+                        "endColumns": "53,60",
+                        "endOffsets": "104,165"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "127,181",
+                        "endColumns": "53,60",
+                        "endOffsets": "176,237"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\cecc79ac3f6512f68945724a7203440f\\preference-1.1.0-beta01\\res\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "71",
+                        "endOffsets": "122"
+                    }
+                }
+            ]
+        }
+    ]
+}

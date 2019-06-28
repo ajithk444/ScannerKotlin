@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/name_card_holder"
+        android:icon="@drawable/ic_card_holder_selected"
+        android:title="@string/name_card_member" />
+
+    <item
+        android:id="@+id/center_navigation"
+        android:icon="@null"
+        android:title="@null"
+        android:enabled="false" />
+
+    <item
+        android:id="@+id/personal_center"
+        android:icon="@drawable/ic_personal_center_selected"
+        android:title="@string/personal_center" />
+
+</menu>

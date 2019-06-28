@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/colorPrimary"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:paddingTop="@dimen/fakeStatusBarSize"
+            tools:context=".ui.fragment.NameCardHolderFragment">
+
+        <!--<androidx.appcompat.widget.SearchView
+                android:id="@+id/searchView"
+                app:layout_constraintTop_toTopOf="parent"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>-->
+
+        <!--<EditText
+            android:id="@+id/edt_search"
+            android:layout_width="match_parent"
+            android:layout_height="27dp"
+            android:layout_marginStart="@dimen/dpNormalMargin"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="@dimen/dpNormalMargin"
+            android:background="@drawable/search_view_bg"
+            android:drawableStart="@drawable/ic_search"
+            android:drawablePadding="7dp"
+            android:hint="@string/search_hint"
+            android:imeOptions="actionSearch"
+            android:paddingStart="10dp"
+            android:paddingEnd="10dp"
+            android:singleLine="true"
+            android:textSize="@dimen/spNormalTextSize"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="Autofill,TextFields" />-->
+
+        <com.google.android.material.tabs.TabLayout
+                android:id="@+id/tab_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="?attr/actionBarSize"
+                app:layout_constraintTop_toTopOf="parent"
+                app:tabIndicatorColor="@color/colorAccent"
+                app:tabIndicatorFullWidth="true"
+                app:tabIndicatorHeight="1dp"
+                app:tabTextColor="@color/tab_layout" />
+
+        <androidx.viewpager.widget.ViewPager
+                android:id="@+id/view_pager"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:background="@color/colorWall"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/tab_layout" />
+
+        <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/colorWall"
+                app:layout_constraintTop_toBottomOf="@id/tab_layout" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

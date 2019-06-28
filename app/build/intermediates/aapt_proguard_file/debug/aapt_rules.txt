@@ -1,0 +1,189 @@
+# Referenced at E:\Android\WorkSpace\ScannerKotlin\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:56
+-keep class androidx.camera.camera2.impl.Camera2Initializer { <init>(); }
+# Referenced at E:\Android\WorkSpace\ScannerKotlin\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:19
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at E:\Android\WorkSpace\ScannerKotlin\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:51
+-keep class androidx.lifecycle.ProcessLifecycleOwnerInitializer { <init>(); }
+# Referenced at E:\Android\WorkSpace\ScannerKotlin\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:63
+-keep class androidx.room.MultiInstanceInvalidationService { <init>(); }
+# Referenced at E:\Android\WorkSpace\ScannerKotlin\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:19
+-keep class com.cuitianci.scanner.ScannerApplication { <init>(); }
+# Referenced at E:\Android\WorkSpace\ScannerKotlin\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:40
+-keep class com.cuitianci.scanner.ui.activity.MainActivity { <init>(); }
+# Referenced at E:\Android\WorkSpace\ScannerKotlin\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:49
+-keep class com.cuitianci.scanner.ui.activity.SettingsActivity { <init>(); }
+# Referenced at E:\Android\WorkSpace\ScannerKotlin\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:67
+-keep class me.jessyan.autosize.InitProvider { <init>(); }
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\f9d458689a9ac36e4a921948d08eaa98\appcompat-1.1.0-beta01\res\layout\abc_alert_dialog_button_bar_material.xml:43
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\f9d458689a9ac36e4a921948d08eaa98\appcompat-1.1.0-beta01\res\layout\abc_alert_dialog_material.xml:52
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\f9d458689a9ac36e4a921948d08eaa98\appcompat-1.1.0-beta01\res\layout\abc_alert_dialog_title_material.xml:57
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\486a8698f705b23e6d0a847a1450b367\material-1.1.0-alpha07\res\layout\mtrl_alert_dialog.xml:51
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\486a8698f705b23e6d0a847a1450b367\material-1.1.0-alpha07\res\layout\mtrl_alert_dialog_actions.xml:45
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\486a8698f705b23e6d0a847a1450b367\material-1.1.0-alpha07\res\layout\mtrl_alert_dialog_title.xml:41
+-keep class android.widget.Space { <init>(...); }
+
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\f9d458689a9ac36e4a921948d08eaa98\appcompat-1.1.0-beta01\res\layout\abc_select_dialog_material.xml:23
+-keep class androidx.appcompat.app.AlertController$RecycleListView { <init>(...); }
+
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\f9d458689a9ac36e4a921948d08eaa98\appcompat-1.1.0-beta01\res\layout\abc_action_menu_item_layout.xml:17
+-keep class androidx.appcompat.view.menu.ActionMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\f9d458689a9ac36e4a921948d08eaa98\appcompat-1.1.0-beta01\res\layout\abc_expanded_menu_layout.xml:17
+-keep class androidx.appcompat.view.menu.ExpandedMenuView { <init>(...); }
+
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\f9d458689a9ac36e4a921948d08eaa98\appcompat-1.1.0-beta01\res\layout\abc_cascading_menu_item_layout.xml:20
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\f9d458689a9ac36e4a921948d08eaa98\appcompat-1.1.0-beta01\res\layout\abc_list_menu_item_layout.xml:17
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\f9d458689a9ac36e4a921948d08eaa98\appcompat-1.1.0-beta01\res\layout\abc_popup_menu_item_layout.xml:17
+-keep class androidx.appcompat.view.menu.ListMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\f9d458689a9ac36e4a921948d08eaa98\appcompat-1.1.0-beta01\res\layout\abc_screen_toolbar.xml:27
+-keep class androidx.appcompat.widget.ActionBarContainer { <init>(...); }
+
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\f9d458689a9ac36e4a921948d08eaa98\appcompat-1.1.0-beta01\res\layout\abc_action_mode_bar.xml:19
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\f9d458689a9ac36e4a921948d08eaa98\appcompat-1.1.0-beta01\res\layout\abc_screen_toolbar.xml:43
+-keep class androidx.appcompat.widget.ActionBarContextView { <init>(...); }
+
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\f9d458689a9ac36e4a921948d08eaa98\appcompat-1.1.0-beta01\res\layout\abc_screen_toolbar.xml:17
+-keep class androidx.appcompat.widget.ActionBarOverlayLayout { <init>(...); }
+
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\f9d458689a9ac36e4a921948d08eaa98\appcompat-1.1.0-beta01\res\layout\abc_action_menu_layout.xml:17
+-keep class androidx.appcompat.widget.ActionMenuView { <init>(...); }
+
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\f9d458689a9ac36e4a921948d08eaa98\appcompat-1.1.0-beta01\res\layout\abc_activity_chooser_view.xml:19
+-keep class androidx.appcompat.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\f9d458689a9ac36e4a921948d08eaa98\appcompat-1.1.0-beta01\res\layout\abc_alert_dialog_material.xml:18
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\486a8698f705b23e6d0a847a1450b367\material-1.1.0-alpha07\res\layout\mtrl_alert_dialog.xml:17
+-keep class androidx.appcompat.widget.AlertDialogLayout { <init>(...); }
+
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\f9d458689a9ac36e4a921948d08eaa98\appcompat-1.1.0-beta01\res\layout\abc_alert_dialog_button_bar_material.xml:26
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\486a8698f705b23e6d0a847a1450b367\material-1.1.0-alpha07\res\layout\mtrl_alert_dialog_actions.xml:26
+-keep class androidx.appcompat.widget.ButtonBarLayout { <init>(...); }
+
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\f9d458689a9ac36e4a921948d08eaa98\appcompat-1.1.0-beta01\res\layout\abc_screen_content_include.xml:19
+-keep class androidx.appcompat.widget.ContentFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\f9d458689a9ac36e4a921948d08eaa98\appcompat-1.1.0-beta01\res\layout\abc_alert_dialog_title_material.xml:45
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\486a8698f705b23e6d0a847a1450b367\material-1.1.0-alpha07\res\layout\mtrl_alert_dialog_title.xml:36
+-keep class androidx.appcompat.widget.DialogTitle { <init>(...); }
+
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\f9d458689a9ac36e4a921948d08eaa98\appcompat-1.1.0-beta01\res\layout\abc_screen_simple_overlay_action_mode.xml:23
+-keep class androidx.appcompat.widget.FitWindowsFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\f9d458689a9ac36e4a921948d08eaa98\appcompat-1.1.0-beta01\res\layout\abc_dialog_title_material.xml:22
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\f9d458689a9ac36e4a921948d08eaa98\appcompat-1.1.0-beta01\res\layout\abc_screen_simple.xml:17
+-keep class androidx.appcompat.widget.FitWindowsLinearLayout { <init>(...); }
+
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\f9d458689a9ac36e4a921948d08eaa98\appcompat-1.1.0-beta01\res\layout\abc_search_view.xml:75
+-keep class androidx.appcompat.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\cecc79ac3f6512f68945724a7203440f\preference-1.1.0-beta01\res\layout\preference_widget_switch_compat.xml:20
+-keep class androidx.appcompat.widget.SwitchCompat { <init>(...); }
+
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\f9d458689a9ac36e4a921948d08eaa98\appcompat-1.1.0-beta01\res\layout\abc_screen_toolbar.xml:36
+# Referenced at E:\Android\WorkSpace\ScannerKotlin\app\src\main\res\layout\toolbar.xml:7
+-keep class androidx.appcompat.widget.Toolbar { <init>(...); }
+
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\f9d458689a9ac36e4a921948d08eaa98\appcompat-1.1.0-beta01\res\layout\abc_screen_simple.xml:25
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\f9d458689a9ac36e4a921948d08eaa98\appcompat-1.1.0-beta01\res\layout\abc_screen_simple_overlay_action_mode.xml:32
+-keep class androidx.appcompat.widget.ViewStubCompat { <init>(...); }
+
+# Referenced at E:\Android\WorkSpace\ScannerKotlin\app\src\main\res\layout\activity_camera.xml:2
+# Referenced at E:\Android\WorkSpace\ScannerKotlin\app\build\intermediates\incremental\mergeDebugResources\stripped.dir\layout\activity_main.xml:10
+# Referenced at E:\Android\WorkSpace\ScannerKotlin\app\src\main\res\layout\activity_settings.xml:1
+# Referenced at E:\Android\WorkSpace\ScannerKotlin\app\build\intermediates\incremental\mergeDebugResources\stripped.dir\layout\fragment_all_name_card.xml:10
+# Referenced at E:\Android\WorkSpace\ScannerKotlin\app\build\intermediates\incremental\mergeDebugResources\stripped.dir\layout\fragment_camera.xml:10
+# Referenced at E:\Android\WorkSpace\ScannerKotlin\app\build\intermediates\incremental\mergeDebugResources\stripped.dir\layout\fragment_choose_group.xml:9
+# Referenced at E:\Android\WorkSpace\ScannerKotlin\app\build\intermediates\incremental\mergeDebugResources\stripped.dir\layout\fragment_name_card_holder.xml:10
+# Referenced at E:\Android\WorkSpace\ScannerKotlin\app\build\intermediates\incremental\mergeDebugResources\stripped.dir\layout\fragment_personal_center.xml:9
+# Referenced at E:\Android\WorkSpace\ScannerKotlin\app\build\intermediates\incremental\mergeDebugResources\stripped.dir\layout\item_name_card.xml:12
+# Referenced at E:\Android\WorkSpace\ScannerKotlin\app\src\main\res\layout\toolbar.xml:2
+# Referenced at E:\Android\WorkSpace\ScannerKotlin\app\src\main\res\layout\view_stub_collection.xml:2
+# Referenced at E:\Android\WorkSpace\ScannerKotlin\app\src\main\res\layout\view_stub_none.xml:2
+-keep class androidx.constraintlayout.widget.ConstraintLayout { <init>(...); }
+
+# Referenced at E:\Android\WorkSpace\ScannerKotlin\app\build\intermediates\incremental\mergeDebugResources\stripped.dir\layout\activity_main.xml:7
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\486a8698f705b23e6d0a847a1450b367\material-1.1.0-alpha07\res\layout\design_bottom_sheet_dialog.xml:26
+-keep class androidx.coordinatorlayout.widget.CoordinatorLayout { <init>(...); }
+
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\f9d458689a9ac36e4a921948d08eaa98\appcompat-1.1.0-beta01\res\layout\abc_alert_dialog_material.xml:41
+# Referenced at E:\Android\WorkSpace\ScannerKotlin\app\build\intermediates\incremental\mergeDebugResources\stripped.dir\layout\fragment_personal_center.xml:14
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\486a8698f705b23e6d0a847a1450b367\material-1.1.0-alpha07\res\layout\mtrl_alert_dialog.xml:40
+-keep class androidx.core.widget.NestedScrollView { <init>(...); }
+
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\cecc79ac3f6512f68945724a7203440f\preference-1.1.0-beta01\res\layout\preference_widget_seekbar.xml:70
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\cecc79ac3f6512f68945724a7203440f\preference-1.1.0-beta01\res\layout\preference_widget_seekbar_material.xml:77
+-keep class androidx.preference.UnPressableLinearLayout { <init>(...); }
+
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\cecc79ac3f6512f68945724a7203440f\preference-1.1.0-beta01\res\layout\image_frame.xml:33
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\cecc79ac3f6512f68945724a7203440f\preference-1.1.0-beta01\res\layout\preference.xml:32
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\cecc79ac3f6512f68945724a7203440f\preference-1.1.0-beta01\res\layout\preference_dropdown.xml:39
+-keep class androidx.preference.internal.PreferenceImageView { <init>(...); }
+
+# Referenced at E:\Android\WorkSpace\ScannerKotlin\app\build\intermediates\incremental\mergeDebugResources\stripped.dir\layout\fragment_all_name_card.xml:15
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\cecc79ac3f6512f68945724a7203440f\preference-1.1.0-beta01\res\layout\preference_recyclerview.xml:18
+-keep class androidx.recyclerview.widget.RecyclerView { <init>(...); }
+
+# Referenced at E:\Android\WorkSpace\ScannerKotlin\app\build\intermediates\incremental\mergeDebugResources\stripped.dir\layout\fragment_name_card_holder.xml:49
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\486a8698f705b23e6d0a847a1450b367\material-1.1.0-alpha07\res\layout\mtrl_calendar_month_pager.xml:18
+-keep class androidx.viewpager.widget.ViewPager { <init>(...); }
+
+# Referenced at E:\Android\WorkSpace\ScannerKotlin\app\build\intermediates\incremental\mergeDebugResources\stripped.dir\layout\fragment_personal_center.xml:100
+-keep class com.cuitianci.scanner.view.DynamicAddableChipGroup { <init>(...); }
+
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\486a8698f705b23e6d0a847a1450b367\material-1.1.0-alpha07\res\layout\test_toolbar.xml:16
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\486a8698f705b23e6d0a847a1450b367\material-1.1.0-alpha07\res\layout\test_toolbar_custom_background.xml:16
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\486a8698f705b23e6d0a847a1450b367\material-1.1.0-alpha07\res\layout\test_toolbar_elevation.xml:16
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\486a8698f705b23e6d0a847a1450b367\material-1.1.0-alpha07\res\layout\test_toolbar_surface.xml:16
+-keep class com.google.android.material.appbar.MaterialToolbar { <init>(...); }
+
+# Referenced at E:\Android\WorkSpace\ScannerKotlin\app\build\intermediates\incremental\mergeDebugResources\stripped.dir\layout\activity_main.xml:15
+-keep class com.google.android.material.bottomnavigation.BottomNavigationView { <init>(...); }
+
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\486a8698f705b23e6d0a847a1450b367\material-1.1.0-alpha07\res\layout\mtrl_calendar_month_bar.xml:24
+-keep class com.google.android.material.button.MaterialButton { <init>(...); }
+
+# Referenced at E:\Android\WorkSpace\ScannerKotlin\app\build\intermediates\incremental\mergeDebugResources\stripped.dir\layout\fragment_personal_center.xml:60
+-keep class com.google.android.material.card.MaterialCardView { <init>(...); }
+
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\486a8698f705b23e6d0a847a1450b367\material-1.1.0-alpha07\res\layout\test_action_chip.xml:17
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\486a8698f705b23e6d0a847a1450b367\material-1.1.0-alpha07\res\layout\test_reflow_chipgroup.xml:25
+-keep class com.google.android.material.chip.Chip { <init>(...); }
+
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\486a8698f705b23e6d0a847a1450b367\material-1.1.0-alpha07\res\layout\test_reflow_chipgroup.xml:19
+-keep class com.google.android.material.chip.ChipGroup { <init>(...); }
+
+# Referenced at E:\Android\WorkSpace\ScannerKotlin\app\build\intermediates\incremental\mergeDebugResources\stripped.dir\layout\activity_main.xml:32
+# Referenced at E:\Android\WorkSpace\ScannerKotlin\app\build\intermediates\incremental\mergeDebugResources\stripped.dir\layout\fragment_camera.xml:32
+-keep class com.google.android.material.floatingactionbutton.FloatingActionButton { <init>(...); }
+
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\486a8698f705b23e6d0a847a1450b367\material-1.1.0-alpha07\res\layout\design_bottom_navigation_item.xml:27
+-keep class com.google.android.material.internal.BaselineLayout { <init>(...); }
+
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\486a8698f705b23e6d0a847a1450b367\material-1.1.0-alpha07\res\layout\design_text_input_end_icon.xml:18
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\486a8698f705b23e6d0a847a1450b367\material-1.1.0-alpha07\res\layout\design_text_input_start_icon.xml:18
+-keep class com.google.android.material.internal.CheckableImageButton { <init>(...); }
+
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\486a8698f705b23e6d0a847a1450b367\material-1.1.0-alpha07\res\layout\design_navigation_item.xml:17
+-keep class com.google.android.material.internal.NavigationMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\486a8698f705b23e6d0a847a1450b367\material-1.1.0-alpha07\res\layout\design_navigation_menu.xml:17
+-keep class com.google.android.material.internal.NavigationMenuView { <init>(...); }
+
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\486a8698f705b23e6d0a847a1450b367\material-1.1.0-alpha07\res\layout\mtrl_month_grid.xml:18
+-keep class com.google.android.material.picker.MaterialCalendarGridView { <init>(...); }
+
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\486a8698f705b23e6d0a847a1450b367\material-1.1.0-alpha07\res\layout\design_layout_snackbar.xml:18
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\486a8698f705b23e6d0a847a1450b367\material-1.1.0-alpha07\res\layout\mtrl_layout_snackbar.xml:18
+-keep class com.google.android.material.snackbar.Snackbar$SnackbarLayout { <init>(...); }
+
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\486a8698f705b23e6d0a847a1450b367\material-1.1.0-alpha07\res\layout\design_layout_snackbar_include.xml:18
+# Referenced at C:\Users\77214\.gradle\caches\transforms-2\files-2.1\486a8698f705b23e6d0a847a1450b367\material-1.1.0-alpha07\res\layout\mtrl_layout_snackbar_include.xml:18
+-keep class com.google.android.material.snackbar.SnackbarContentLayout { <init>(...); }
+
+# Referenced at E:\Android\WorkSpace\ScannerKotlin\app\build\intermediates\incremental\mergeDebugResources\stripped.dir\layout\fragment_name_card_holder.xml:38
+-keep class com.google.android.material.tabs.TabLayout { <init>(...); }
+
+# Referenced at E:\Android\WorkSpace\ScannerKotlin\app\build\intermediates\incremental\mergeDebugResources\stripped.dir\layout\fragment_camera.xml:22
+-keep class de.hdodenhof.circleimageview.CircleImageView { <init>(...); }
+

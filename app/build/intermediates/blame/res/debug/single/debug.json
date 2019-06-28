@@ -1,0 +1,642 @@
+[
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_preference_widget_seekbar.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\cecc79ac3f6512f68945724a7203440f\\preference-1.1.0-beta01\\res\\layout\\preference_widget_seekbar.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_position.png.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\drawable-xxhdpi\\ic_position.png"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_bottom_navigation_item.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_edit_menu.xml.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\menu\\activity_edit_menu.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_header.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_test_reflow_chipgroup.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout\\test_reflow_chipgroup.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_navigation_menu.xml.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\menu\\bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_dialog.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\5d69bab060a5041fb735b3d9c1ad243c\\core-1.1.0-rc01\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_icon.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\f9d458689a9ac36e4a921948d08eaa98\\appcompat-1.1.0-beta01\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\color_tab_layout.xml.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\color\\tab_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_preference_list_fragment.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\cecc79ac3f6512f68945724a7203440f\\preference-1.1.0-beta01\\res\\layout\\preference_list_fragment.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13_design_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_alert_select_dialog_multichoice.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout\\mtrl_alert_select_dialog_multichoice.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_test_toolbar.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout\\test_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_preference_category.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\cecc79ac3f6512f68945724a7203440f\\preference-1.1.0-beta01\\res\\layout\\preference_category.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_label.png.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\drawable-xxhdpi\\ic_label.png"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_expand_button.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\cecc79ac3f6512f68945724a7203440f\\preference-1.1.0-beta01\\res\\layout\\expand_button.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_alert_dialog_title.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout\\mtrl_alert_dialog_title.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_email.png.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\drawable-xxhdpi\\ic_email.png"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_select_dialog_material.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\f9d458689a9ac36e4a921948d08eaa98\\appcompat-1.1.0-beta01\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_test_toolbar_elevation.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout\\test_toolbar_elevation.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_camera.xml.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_name_card_holder.xml.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\layout\\fragment_name_card_holder.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_month_grid.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout\\mtrl_month_grid.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_content_include.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\f9d458689a9ac36e4a921948d08eaa98\\appcompat-1.1.0-beta01\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\f9d458689a9ac36e4a921948d08eaa98\\appcompat-1.1.0-beta01\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_menu_item_action_area.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\xml_notification_preferences.xml.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\xml\\notification_preferences.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_company.png.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\drawable-xxhdpi\\ic_company.png"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_bottom_sheet_dialog.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\f9d458689a9ac36e4a921948d08eaa98\\appcompat-1.1.0-beta01\\res\\layout-watch-v20\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\f9d458689a9ac36e4a921948d08eaa98\\appcompat-1.1.0-beta01\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_text_input_end_icon.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout\\design_text_input_end_icon.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\f9d458689a9ac36e4a921948d08eaa98\\appcompat-1.1.0-beta01\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_preference_dropdown_material.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\cecc79ac3f6512f68945724a7203440f\\preference-1.1.0-beta01\\res\\layout\\preference_dropdown_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_delete.png.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\drawable-xxhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_next_card.png.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\drawable-xxhdpi\\ic_next_card.png"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\f9d458689a9ac36e4a921948d08eaa98\\appcompat-1.1.0-beta01\\res\\layout-watch-v20\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_preference_recyclerview.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\cecc79ac3f6512f68945724a7203440f\\preference-1.1.0-beta01\\res\\layout\\preference_recyclerview.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\f9d458689a9ac36e4a921948d08eaa98\\appcompat-1.1.0-beta01\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_menu.xml.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\menu\\activity_main_menu.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\f9d458689a9ac36e4a921948d08eaa98\\appcompat-1.1.0-beta01\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\f9d458689a9ac36e4a921948d08eaa98\\appcompat-1.1.0-beta01\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_separator.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_item.xml.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\drawable\\bg_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_all_name_card.xml.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\layout\\fragment_all_name_card.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_alert_dialog.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout\\mtrl_alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_view.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\f9d458689a9ac36e4a921948d08eaa98\\appcompat-1.1.0-beta01\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\5d69bab060a5041fb735b3d9c1ad243c\\core-1.1.0-rc01\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_calendar_month_bar.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout\\mtrl_calendar_month_bar.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_alert_select_dialog_item.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout\\mtrl_alert_select_dialog_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_text_input_start_icon.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout\\design_text_input_start_icon.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\xml_searchable.xml.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_preference_dialog_edittext.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\cecc79ac3f6512f68945724a7203440f\\preference-1.1.0-beta01\\res\\layout\\preference_dialog_edittext.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_right_arrows.png.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\drawable-xxhdpi\\ic_right_arrows.png"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_preference_widget_seekbar_material.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\cecc79ac3f6512f68945724a7203440f\\preference-1.1.0-beta01\\res\\layout\\preference_widget_seekbar_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbar.xml.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_stub_collection.xml.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\layout\\view_stub_collection.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_test_toolbar_custom_background.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout\\test_toolbar_custom_background.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_image_frame.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\cecc79ac3f6512f68945724a7203440f\\preference-1.1.0-beta01\\res\\layout\\image_frame.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\f9d458689a9ac36e4a921948d08eaa98\\appcompat-1.1.0-beta01\\res\\layout-v26\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_none.png.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\drawable-xxhdpi\\ic_none.png"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_search.png.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\drawable-xxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_multichoice_material.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\f9d458689a9ac36e4a921948d08eaa98\\appcompat-1.1.0-beta01\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_alert_select_dialog_singlechoice.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout\\mtrl_alert_select_dialog_singlechoice.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\xml_root_preferences.xml.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\xml\\root_preferences.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_layout.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\f9d458689a9ac36e4a921948d08eaa98\\appcompat-1.1.0-beta01\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\5d69bab060a5041fb735b3d9c1ad243c\\core-1.1.0-rc01\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_preference_information_material.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\cecc79ac3f6512f68945724a7203440f\\preference-1.1.0-beta01\\res\\layout\\preference_information_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_default_portrait.png.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\drawable-xxhdpi\\ic_default_portrait.png"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_personal_center_selected.png.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\drawable-xxhdpi\\ic_personal_center_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_picker_header.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout\\mtrl_picker_header.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_menu.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13_mtrl_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout-sw600dp-v13\\mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_add_successfully.png.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_successfully.png"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_snackbar_include.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\f9d458689a9ac36e4a921948d08eaa98\\appcompat-1.1.0-beta01\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout\\mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_main_camera.png.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\drawable-xxhdpi\\ic_main_camera.png"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_searchable.xml.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\layout\\activity_searchable.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_name_card.xml.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\layout\\item_name_card.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_header_item_layout.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\f9d458689a9ac36e4a921948d08eaa98\\appcompat-1.1.0-beta01\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\5d69bab060a5041fb735b3d9c1ad243c\\core-1.1.0-rc01\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_cascading_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\f9d458689a9ac36e4a921948d08eaa98\\appcompat-1.1.0-beta01\\res\\layout\\abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_tooltip.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\f9d458689a9ac36e4a921948d08eaa98\\appcompat-1.1.0-beta01\\res\\layout\\abc_tooltip.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\f9d458689a9ac36e4a921948d08eaa98\\appcompat-1.1.0-beta01\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_we_chat.png.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\drawable-xxhdpi\\ic_we_chat.png"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_picker_actions.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout\\mtrl_picker_actions.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\xml_file_paths.xml.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_layout_snackbar_include.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout\\mtrl_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\5d69bab060a5041fb735b3d9c1ad243c\\core-1.1.0-rc01\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_up_container.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\f9d458689a9ac36e4a921948d08eaa98\\appcompat-1.1.0-beta01\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_calendar_month_pager.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout\\mtrl_calendar_month_pager.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_base_info.xml.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\layout\\item_base_info.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_alert_dialog_actions.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout\\mtrl_alert_dialog_actions.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\f9d458689a9ac36e4a921948d08eaa98\\appcompat-1.1.0-beta01\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_adress.png.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\drawable-xxhdpi\\ic_adress.png"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\f9d458689a9ac36e4a921948d08eaa98\\appcompat-1.1.0-beta01\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\f9d458689a9ac36e4a921948d08eaa98\\appcompat-1.1.0-beta01\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\f9d458689a9ac36e4a921948d08eaa98\\appcompat-1.1.0-beta01\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_choose_group.xml.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\layout\\fragment_choose_group.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\f9d458689a9ac36e4a921948d08eaa98\\appcompat-1.1.0-beta01\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_calendar_days_header.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout\\mtrl_calendar_days_header.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\f9d458689a9ac36e4a921948d08eaa98\\appcompat-1.1.0-beta01\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_bar.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\f9d458689a9ac36e4a921948d08eaa98\\appcompat-1.1.0-beta01\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_test_action_chip.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout\\test_action_chip.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_calendar.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout\\mtrl_calendar.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search_view_bg.xml.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\drawable\\search_view_bg.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\xml_backup_descriptor.xml.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\xml\\backup_descriptor.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_calendar_day.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout\\mtrl_calendar_day.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_preference_material.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\cecc79ac3f6512f68945724a7203440f\\preference-1.1.0-beta01\\res\\layout\\preference_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_tab_icon.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\5d69bab060a5041fb735b3d9c1ad243c\\core-1.1.0-rc01\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_radio.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\f9d458689a9ac36e4a921948d08eaa98\\appcompat-1.1.0-beta01\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_camera.xml.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_expanded_menu_layout.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\f9d458689a9ac36e4a921948d08eaa98\\appcompat-1.1.0-beta01\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_preference_category_material.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\cecc79ac3f6512f68945724a7203440f\\preference-1.1.0-beta01\\res\\layout\\preference_category_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_preference_information.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\cecc79ac3f6512f68945724a7203440f\\preference-1.1.0-beta01\\res\\layout\\preference_information.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_menu_item.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_test_toolbar_surface.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout\\test_toolbar_surface.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\f9d458689a9ac36e4a921948d08eaa98\\appcompat-1.1.0-beta01\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_preference.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\cecc79ac3f6512f68945724a7203440f\\preference-1.1.0-beta01\\res\\layout\\preference.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\color_bottom_navigation.xml.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\color\\bottom_navigation.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\5d69bab060a5041fb735b3d9c1ad243c\\core-1.1.0-rc01\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_persona_center_bg.png.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\drawable-xxhdpi\\ic_persona_center_bg.png"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_material.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\f9d458689a9ac36e4a921948d08eaa98\\appcompat-1.1.0-beta01\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_mobile.png.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\drawable-xxhdpi\\ic_mobile.png"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_picker_dialog.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout\\mtrl_picker_dialog.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_subheader.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_stub_none.xml.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\layout\\view_stub_none.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_preference_widget_switch.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\cecc79ac3f6512f68945724a7203440f\\preference-1.1.0-beta01\\res\\layout\\preference_widget_switch.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_card_holder_selected.png.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\drawable-xxhdpi\\ic_card_holder_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_add_more.png.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_more.png"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_title_item.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\f9d458689a9ac36e4a921948d08eaa98\\appcompat-1.1.0-beta01\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_preference_widget_checkbox.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\cecc79ac3f6512f68945724a7203440f\\preference-1.1.0-beta01\\res\\layout\\preference_widget_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_preference_dropdown.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\cecc79ac3f6512f68945724a7203440f\\preference-1.1.0-beta01\\res\\layout\\preference_dropdown.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_personal_center.xml.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\layout\\fragment_personal_center.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_preference_widget_switch_compat.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\cecc79ac3f6512f68945724a7203440f\\preference-1.1.0-beta01\\res\\layout\\preference_widget_switch_compat.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_item_material.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\f9d458689a9ac36e4a921948d08eaa98\\appcompat-1.1.0-beta01\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_tab_text.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\486a8698f705b23e6d0a847a1450b367\\material-1.1.0-alpha07\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\Android\\WorkSpace\\ScannerKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "C:\\Users\\77214\\.gradle\\caches\\transforms-2\\files-2.1\\f9d458689a9ac36e4a921948d08eaa98\\appcompat-1.1.0-beta01\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    }
+]

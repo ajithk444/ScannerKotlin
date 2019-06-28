@@ -1,0 +1,47 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <Preference
+        android:fragment="com.cuitianci.scanner.ui.activity.SettingsActivity$NotificationSettingsFragment"
+        android:key="notification"
+        android:summary="消息通知，留言通知等..."
+        android:title="通知管理">
+        <extra
+            android:name="title"
+            android:value="通知管理" />
+    </Preference>
+
+    <PreferenceCategory app:title="@string/messages_header">
+
+        <EditTextPreference
+            android:icon="@drawable/ic_add_more"
+            android:key="signature"
+            android:title="@string/signature_title"
+            app:useSimpleSummaryProvider="true" />
+
+        <ListPreference
+            android:defaultValue="reply"
+            android:entries="@array/reply_entries"
+            android:entryValues="@array/reply_values"
+            android:key="reply"
+            android:title="@string/reply_title"
+            app:useSimpleSummaryProvider="true" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/sync_header">
+
+        <SwitchPreferenceCompat
+            android:key="sync"
+            android:title="@string/sync_title" />
+
+        <SwitchPreferenceCompat
+            android:dependency="sync"
+            android:key="attachment"
+            android:summaryOff="@string/attachment_summary_off"
+            android:summaryOn="@string/attachment_summary_on"
+            android:title="@string/attachment_title" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

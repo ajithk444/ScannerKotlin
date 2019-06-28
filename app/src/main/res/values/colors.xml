@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#41BAFF</color>
+    <color name="colorDarkText">#333333</color>
+    <color name="colorLightText">#707070</color>
+    <color name="colorRipple">#B3B3B3</color>
+    <color name="colorBottomNavigationSelected">#333333</color>
+    <color name="colorBottomNavigationUnselected">#B3B3B3</color>
+    <color name="colorWall">#FAFAFA</color>
+    <color name="colorSearchViewBg">#FFF5F5F5</color>
+    <color name="colorSearchHint">#B3B3B3</color>
+    <color name="colorChipText">#FF8C00</color>
+    <color name="colorChipBg">#FFF3EA</color>
+    <color name="colorGrayText">#B3B3B3</color>
+    <color name="colorItemPressed">#E3E3E3</color>
+</resources>

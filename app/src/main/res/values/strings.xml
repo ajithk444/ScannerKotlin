@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">ScannerKotlin</string>
+    <string name="iv">iv</string>
+    <string name="name_card_member">名片夹</string>
+    <string name="personal_center">个人中心</string>
+    <string name="complete">完成</string>
+    <string name="edit">编辑</string>
+    <string name="search">搜索</string>
+    <string name="add_more_information">添加更多信息</string>
+    <string name="add_successfully">名片添加成功</string>
+    <string name="upload_portrait">上传头像</string>
+    <string name="take_photography">拍照</string>
+    <string name="choose_from_album">从手机相册上传</string>
+    <string name="all_name_card">全部名片</string>
+    <string name="choose_groups">选择分组</string>
+    <string name="search_hint">请输入姓名/电话/公司/职位</string>
+
+    <string name="click_to_update_own_info">点击上传自己的名片信息</string>
+    <string name="name_card_details">名片详情</string>
+    <string name="back">返回</string>
+    <!--alertDialog提示-->
+    <string name="permission_dialog">授权对话框</string>
+    <string name="system_settings">系统设置</string>
+    <string name="to_give_permission">去授权</string>
+    <string name="permission_tips_camera">x需要访问您的相机来进行拍照，请在y中允许“相机”权限</string>
+    <string name="permission_tips_storage">x需要访问您的存储设备来选择图片，请在y中允许“存储空间”权限</string>
+    <string name="do_you_confirm_to_exit">您确认要退出x吗？</string>
+    <string name="use_again">再用用</string>
+    <string name="confirm_to_exit">确认退出</string>
+    <!--设置-->
+    <string name="allow_notifications">允许发送通知</string>
+    <string name="feedback">用户反馈</string>
+    <string name="report_feedback">向开发者提供建议或反馈</string>
+    <string name="about_scanner">关于Scanner</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+</resources>

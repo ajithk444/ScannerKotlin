@@ -1,0 +1,170 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.cuitianci.scanner"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:6:5-67
+11-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.CAMERA" />
+12-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:7:5-65
+12-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:7:22-62
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:8:5-80
+13-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:8:22-77
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:9:5-81
+14-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:9:22-78
+15
+16    <uses-feature android:name="android.hardware.camera" />
+16-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:11:5-60
+16-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:11:19-57
+17    <uses-feature android:name="android.hardware.camera.autofocus" />
+17-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:12:5-70
+17-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:12:19-67
+18
+19    <application
+19-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:14:5-62:19
+20        android:name="com.cuitianci.scanner.ScannerApplication"
+20-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:15:13-47
+21        android:allowBackup="true"
+21-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:16:13-39
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.1.0-rc01] C:\Users\77214\.gradle\caches\transforms-2\files-2.1\5d69bab060a5041fb735b3d9c1ad243c\core-1.1.0-rc01\AndroidManifest.xml:24:18-86
+23        android:debuggable="true"
+24        android:extractNativeLibs="false"
+25        android:fullBackupContent="@xml/backup_descriptor"
+25-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:17:13-63
+26        android:icon="@mipmap/ic_launcher"
+26-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:18:13-47
+27        android:label="@string/app_name"
+27-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:19:13-45
+28        android:networkSecurityConfig="@xml/network_security_config"
+28-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:20:13-73
+29        android:roundIcon="@mipmap/ic_launcher_round"
+29-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:21:13-58
+30        android:supportsRtl="true"
+30-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:22:13-39
+31        android:testOnly="true"
+32        android:theme="@style/AppTheme" >
+32-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:23:13-44
+33        <activity
+33-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:26:9-35:20
+34            android:name="com.cuitianci.scanner.ui.activity.SearchableActivity"
+34-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:27:17-63
+35            android:launchMode="singleTop" >
+35-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:28:17-47
+36            <intent-filter>
+36-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:29:13-31:29
+37                <action android:name="android.intent.action.SEARCH" />
+37-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:30:17-71
+37-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:30:25-68
+38            </intent-filter>
+39
+40            <meta-data
+40-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:32:13-34:58
+41                android:name="android.app.searchable"
+41-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:33:21-58
+42                android:resource="@xml/searchable" />
+42-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:34:21-55
+43        </activity>
+44
+45        <meta-data
+45-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:37:9-39:39
+46            android:name="design_width_in_dp"
+46-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:38:17-50
+47            android:value="360" />
+47-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:39:17-36
+48        <meta-data
+48-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:40:9-42:39
+49            android:name="design_height_in_dp"
+49-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:41:17-51
+50            android:value="640" />
+50-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:42:17-36
+51
+52        <activity
+52-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:44:9-55:20
+53            android:name="com.cuitianci.scanner.ui.activity.MainActivity"
+53-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:45:17-57
+54            android:configChanges="screenSize|screenLayout|keyboardHidden" >
+54-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:46:17-79
+55            <intent-filter>
+55-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:47:13-51:29
+56                <action android:name="android.intent.action.MAIN" />
+56-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:48:17-69
+56-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:48:25-66
+57
+58                <category android:name="android.intent.category.LAUNCHER" />
+58-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:50:17-77
+58-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:50:27-74
+59            </intent-filter>
+60
+61            <meta-data
+61-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:52:13-54:71
+62                android:name="android.app.default_searchable"
+62-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:53:21-66
+63                android:value=".ui.activity.SearchableActivity" />
+63-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:54:21-68
+64        </activity>
+65        <activity android:name="com.cuitianci.scanner.ui.activity.SettingsActivity" />
+65-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:56:9-66
+65-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:56:19-63
+66
+67        <provider
+67-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:58:9-61:44
+68            android:name="com.cuitianci.scanner.provider.SearchSuggestionProvider"
+68-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:59:17-66
+69            android:authorities="com.cuitianci.scanner.SearchSuggestionProvider"
+69-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:60:17-85
+70            android:exported="false" />
+70-->E:\Android\WorkSpace\ScannerKotlin\app\src\main\AndroidManifest.xml:61:17-41
+71        <provider
+71-->[androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\77214\.gradle\caches\transforms-2\files-2.1\3331f8c76560b2f10d84b64b0159b14a\lifecycle-process-2.2.0-alpha01\AndroidManifest.xml:23:9-27:43
+72            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+72-->[androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\77214\.gradle\caches\transforms-2\files-2.1\3331f8c76560b2f10d84b64b0159b14a\lifecycle-process-2.2.0-alpha01\AndroidManifest.xml:24:13-79
+73            android:authorities="com.cuitianci.scanner.lifecycle-process"
+73-->[androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\77214\.gradle\caches\transforms-2\files-2.1\3331f8c76560b2f10d84b64b0159b14a\lifecycle-process-2.2.0-alpha01\AndroidManifest.xml:25:13-69
+74            android:exported="false"
+74-->[androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\77214\.gradle\caches\transforms-2\files-2.1\3331f8c76560b2f10d84b64b0159b14a\lifecycle-process-2.2.0-alpha01\AndroidManifest.xml:26:13-37
+75            android:multiprocess="true" />
+75-->[androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\77214\.gradle\caches\transforms-2\files-2.1\3331f8c76560b2f10d84b64b0159b14a\lifecycle-process-2.2.0-alpha01\AndroidManifest.xml:27:13-40
+76        <provider
+76-->[androidx.camera:camera-camera2:1.0.0-alpha02] C:\Users\77214\.gradle\caches\transforms-2\files-2.1\9b06063ea0ecd709724ab6830e9f80b5\camera-camera2-1.0.0-alpha02\AndroidManifest.xml:25:9-30:43
+77            android:name="androidx.camera.camera2.impl.Camera2Initializer"
+77-->[androidx.camera:camera-camera2:1.0.0-alpha02] C:\Users\77214\.gradle\caches\transforms-2\files-2.1\9b06063ea0ecd709724ab6830e9f80b5\camera-camera2-1.0.0-alpha02\AndroidManifest.xml:26:13-75
+78            android:authorities="com.cuitianci.scanner.camerax-init"
+78-->[androidx.camera:camera-camera2:1.0.0-alpha02] C:\Users\77214\.gradle\caches\transforms-2\files-2.1\9b06063ea0ecd709724ab6830e9f80b5\camera-camera2-1.0.0-alpha02\AndroidManifest.xml:27:13-64
+79            android:exported="false"
+79-->[androidx.camera:camera-camera2:1.0.0-alpha02] C:\Users\77214\.gradle\caches\transforms-2\files-2.1\9b06063ea0ecd709724ab6830e9f80b5\camera-camera2-1.0.0-alpha02\AndroidManifest.xml:28:13-37
+80            android:initOrder="100"
+80-->[androidx.camera:camera-camera2:1.0.0-alpha02] C:\Users\77214\.gradle\caches\transforms-2\files-2.1\9b06063ea0ecd709724ab6830e9f80b5\camera-camera2-1.0.0-alpha02\AndroidManifest.xml:29:13-36
+81            android:multiprocess="true" />
+81-->[androidx.camera:camera-camera2:1.0.0-alpha02] C:\Users\77214\.gradle\caches\transforms-2\files-2.1\9b06063ea0ecd709724ab6830e9f80b5\camera-camera2-1.0.0-alpha02\AndroidManifest.xml:30:13-40
+82
+83        <service
+83-->[androidx.room:room-runtime:2.1.0] C:\Users\77214\.gradle\caches\transforms-2\files-2.1\e729952622b8d8584838820a1f190aa2\room-runtime-2.1.0\AndroidManifest.xml:25:9-27:40
+84            android:name="androidx.room.MultiInstanceInvalidationService"
+84-->[androidx.room:room-runtime:2.1.0] C:\Users\77214\.gradle\caches\transforms-2\files-2.1\e729952622b8d8584838820a1f190aa2\room-runtime-2.1.0\AndroidManifest.xml:26:13-74
+85            android:exported="false" />
+85-->[androidx.room:room-runtime:2.1.0] C:\Users\77214\.gradle\caches\transforms-2\files-2.1\e729952622b8d8584838820a1f190aa2\room-runtime-2.1.0\AndroidManifest.xml:27:13-37
+86
+87        <provider
+87-->[me.jessyan:autosize:1.1.2] C:\Users\77214\.gradle\caches\transforms-2\files-2.1\d6fc787314c9d046d2045bfd7a366ac1\jetified-autosize-1.1.2\AndroidManifest.xml:12:9-16:43
+88            android:name="me.jessyan.autosize.InitProvider"
+88-->[me.jessyan:autosize:1.1.2] C:\Users\77214\.gradle\caches\transforms-2\files-2.1\d6fc787314c9d046d2045bfd7a366ac1\jetified-autosize-1.1.2\AndroidManifest.xml:13:13-60
+89            android:authorities="com.cuitianci.scanner.autosize-init-provider"
+89-->[me.jessyan:autosize:1.1.2] C:\Users\77214\.gradle\caches\transforms-2\files-2.1\d6fc787314c9d046d2045bfd7a366ac1\jetified-autosize-1.1.2\AndroidManifest.xml:14:13-74
+90            android:exported="false"
+90-->[me.jessyan:autosize:1.1.2] C:\Users\77214\.gradle\caches\transforms-2\files-2.1\d6fc787314c9d046d2045bfd7a366ac1\jetified-autosize-1.1.2\AndroidManifest.xml:15:13-37
+91            android:multiprocess="true" />
+91-->[me.jessyan:autosize:1.1.2] C:\Users\77214\.gradle\caches\transforms-2\files-2.1\d6fc787314c9d046d2045bfd7a366ac1\jetified-autosize-1.1.2\AndroidManifest.xml:16:13-40
+92    </application>
+93
+94</manifest>
